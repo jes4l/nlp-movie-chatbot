@@ -1,0 +1,56 @@
+Intent,Response
+Welcome,Hello! How can I assist you today?
+hi,Hello! How can I assist you today?
+hey,Hello! How can I assist you today?
+hello,Hello! How can I assist you today?
+what can you do,what_can_you_do
+can i book movie,book_movie
+can i book film,book_movie
+book movie,book_movie
+book film,book_movie
+how are you,I am great thank you
+i am good,Thats glad to hear. How can i help you today
+i am sad,I am sorry to hear and i hope you get better soon
+i am tired,Please wake up to talk to me
+i am happy,I am happy that you are happy
+i am crying,Let me get tissues
+hows it going,I am awesome thank you 
+show me all movies,show_movies
+show me all films,show_movies
+show me a list of movies,show_movies
+show me a list of films,show_movies
+films on,show_movies
+movies on,show_movies
+show movies,show_movies
+show films,show_movies
+what is my name,show_name
+show me my name,show_name
+i would like to cancel,which booking would you like to cancel
+i want to cancel a movie booking,cancel_booking
+cancel booking,cancel_booking
+show me movies by genre,show_genre
+filter via genre,show_genre
+change name,change_name
+different name,change_name
+name change,change_name
+new name,change_name
+name new,change_name
+see my booking,show_booking
+show booking,show_booking
+see my booking,show_booking
+what is my booking,show_booking
+what is booking id,find_booking_id
+booking id,find_booking_id
+edit booking,edit_booking
+change booking,edit_booking
+incorrect response,I am sorry please try again
+nice,thanks
+thank you,Anytime
+what are stocks and bonds,with stocks you own a small portion of a company whereas with bonds you're loaning a company or government money.
+how is weather today,I can't give real-time weather updates. Try a reliable weather forecasting website or app.
+tell a joke,Okkl! Why don't scientists trust atoms? Because they make up everything!
+what is favourite colour,Its blue
+recommend a movie,I can't give movie recommendations movies but i can show all movies available
+recommend a film,I can't give movie recommendations movies but i can show all films available
+test,test
+exit,Goodbye
