@@ -53,7 +53,7 @@ The chatbot was designed to be respectful and inclusive, with no bias in its ope
 
 2. Install the required Python packages:
     ```bash
-    pip install -r requirements.txt
+    pip install nltk
     ```
 
 3. Run the chatbot:
